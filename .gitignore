@@ -1,0 +1,7 @@
+*.lua
+!main.lua
+!conf.lua
+!lib/*
+
+bin
+dist
